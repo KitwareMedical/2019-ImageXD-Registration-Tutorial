@@ -3,4 +3,5 @@ itkwidgets>=0.19
 scikit-image
 numpy
 matplotlib
-itk
+itk>=5.1b1
+rise
