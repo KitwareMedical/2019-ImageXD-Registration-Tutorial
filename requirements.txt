@@ -1,2 +1,6 @@
 jupyter
-itkwidgets
+itkwidgets>=0.19
+scikit-image
+numpy
+matplotlib
+itk
