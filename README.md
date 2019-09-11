@@ -2,10 +2,12 @@
 
 ## Quickstart
 
-  `$ git clone https://github.com/KitwareMedical/2019-ImageXD-Registration-Tutorial`
-  `$ cd 2019-ImageXD-Registration-Tutorial`
-  `$ pip3 install --upgrade --pre --upgrade-strategy eager -r requirements.txt`
-  `$ jupyter notebook`
+```sh
+git clone https://github.com/KitwareMedical/2019-ImageXD-Registration-Tutorial
+cd 2019-ImageXD-Registration-Tutorial
+pip3 install --upgrade --pre --upgrade-strategy eager -r requirements.txt
+jupyter notebook
+```
 
 ## Format
 
