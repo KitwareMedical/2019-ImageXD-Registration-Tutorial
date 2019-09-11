@@ -1,8 +1,8 @@
 jupyter
 scipy
-itkwidgets>=0.19
+itkwidgets
 scikit-image
 numpy
 matplotlib
-itk>=5.1b1
+itk
 rise
