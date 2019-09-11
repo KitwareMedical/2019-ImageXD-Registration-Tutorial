@@ -1,6 +1,6 @@
 jupyter
 scipy
-itkwidgets
+itkwidgets==0.18.0
 scikit-image
 numpy
 matplotlib
