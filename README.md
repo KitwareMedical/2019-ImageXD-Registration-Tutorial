@@ -10,7 +10,7 @@
 ```sh
 git clone https://github.com/KitwareMedical/2019-ImageXD-Registration-Tutorial
 cd 2019-ImageXD-Registration-Tutorial
-pip3 install --upgrade --upgrade-strategy eager -r requirements.txt
+pip3 install -r requirements.txt
 jupyter notebook
 ```
 
@@ -45,7 +45,7 @@ required packages installed in order to fully participate.
   [conda-forge](https://conda-forge.org/) repository, through the
   following command:
 
-  `$ pip3 install --upgrade --upgrade-strategy eager itk`
+  `$ pip3 install itk`
 
 - **Jupyter**
 
