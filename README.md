@@ -35,7 +35,7 @@ required packages installed in order to fully participate.
   - `scipy` >= 1.0
   - `matplotlib` >= 2.1
   - `scikit-image` >= 0.15
-  - `itk` >= 5.1b1
+  - `itk` >= 5.0.1
   - `itkwidgets` >= 0.19
 
 - **ITK**
