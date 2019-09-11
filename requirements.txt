@@ -6,4 +6,4 @@ numpy
 matplotlib
 itk>=5.1b1
 rise
-itk-meshtopolydata>=0.4.0
+itk-meshtopolydata>=0.5.0
