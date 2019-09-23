@@ -62,7 +62,7 @@ required packages installed in order to fully participate.
 
   ```
   python -m pip install -q ipywidgets
-  jupyter nbextension enable --py --sys-prefix widgetsnbextension
+  jupyter nbextension enable --py --sys-prefix itkwidgets widgetsnbextension
   ```
 
 ## Download lecture material
@@ -79,6 +79,6 @@ Optionally, create a new conda environment or virtual environment.
 
 Then, install the packages:
 
-  `$ pip3 install --upgrade --pre --upgrade-strategy eager -r requirements.txt`
+  `$ python -m pip install -r requirements.txt`
 
 **If you do not have a working setup, please contact the instructors.**
