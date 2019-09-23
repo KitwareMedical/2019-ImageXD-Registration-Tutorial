@@ -2,7 +2,7 @@
 
 ## Super Quickstart
 
-:[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/KitwareMedical/2019-ImageXD-Registration-Tutorial/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/KitwareMedical/2019-ImageXD-Registration-Tutorial/master)
 
 
 ## Quickstart
